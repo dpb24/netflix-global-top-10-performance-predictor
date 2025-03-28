@@ -8,7 +8,7 @@ Can we predict how many hours a Netflix title will be viewed based on its first 
 
 ### 💡Key results:
  - **88.3%** of the variation in total hours viewed is explained by 🌲 Random Forest model  <br>
- - **Week 2 viewership** is the strongest predictor of title performance  <br>
+ - **Week 2 viewership** is the strongest predictor of a Netflix title's success <br>
  - **Category matters:** 📺 TV shows tend to perform better than 🍿 Films  <br>
 
 
