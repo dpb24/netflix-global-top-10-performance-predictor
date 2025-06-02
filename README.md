@@ -15,11 +15,11 @@ Can we predict how many hours a Netflix title will be viewed based on its first 
  - **Category matters:** 📺 TV shows tend to perform better than 🍿 Films  <br> <br>
 
 
-📊 Explore the Jupyter notebook: [GitHub](https://github.com/dpb24/netflix-global-top-10-performance-predictor-ml/blob/main/netflix-global-top-10-performance-predictor-ml.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-global-top-10-performance-predictor-ml)  <br>
+📊 Explore the Jupyter notebook: [GitHub](https://github.com/dpb24/netflix-global-top-10-performance-predictor-ml/blob/main/notebooks/netflix-global-top-10-performance-predictor-ml.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-global-top-10-performance-predictor-ml)  <br>
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="netflix_global_top_10_weekly.png" width="800">
-    <img src="ml_model_performance1.png" width="800">
-    <img src="ml_model_performance2.png" width="800">
+    <img src="reports/netflix_global_top_10_weekly.png" width="800">
+    <img src="reports/ml_model_performance1.png" width="800">
+    <img src="reports/ml_model_performance2.png" width="800">
 </div>
