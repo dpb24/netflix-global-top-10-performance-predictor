@@ -17,13 +17,13 @@ Can we predict how many hours a Netflix title will be viewed based on its first 
  - Data Preprocessing: log transformation, IQR-based outlier removal
  - Model Diagnostics: checked assumptions (homoscedasticity, multicollinearity, Q-Q plots)
  - ANOVA & Tukey's Test: tested category differences in viewership
- - 📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/netflix-global-top-10-performance-predictor-lr/blob/main/netflix-global-top-10-performance-predictor-lr.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-global-top-10-performance-predictor-lr)  <br>
+ - 📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/netflix-global-top-10-performance-predictor/blob/main/notebooks/netflix-global-top-10-performance-predictor-lr.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-global-top-10-performance-predictor-lr)  <br>
  
 #### Machine Learning Models
  - Models Evaluated: Decision Tree, Random Forest, Gradient Boosting, XGBoost
  - Hyperparameter Tuning: GridSearchCV
  - Metrics Used: R², Adjusted R², Mean Squared Error (MSE)
- - 📖 Jupyter notebook: [GitHub](https://github.com/dpb24/netflix-global-top-10-performance-predictor-ml/blob/main/notebooks/netflix-global-top-10-performance-predictor-ml.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-global-top-10-performance-predictor-ml)  <br>
+ - 📖 Jupyter notebook: [GitHub](https://github.com/dpb24/netflix-global-top-10-performance-predictor/blob/main/notebooks/netflix-global-top-10-performance-predictor-ml.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-global-top-10-performance-predictor-ml)  <br>
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
