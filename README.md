@@ -4,7 +4,7 @@
 
 # Netflix Global Top 10 Performance
 
-**Libraries:** `scikit-learn`, `XGBoost`, `matplotlib`, `pandas`, `numpy` <br>
+**Libraries:** `scikit-learn`, `XGBoost`, `matplotlib`, `seaborn`, `pandas`, `numpy` <br>
 **Dataset:** [Netflix Global Top 10](https://www.kaggle.com/datasets/davidpbriggs/most-popular-netflix-shows)
 
 Can we predict how many hours a Netflix title will be viewed based on its first two weeks in the Global Top 10? What trends influence what we watch? This project explores these questions using both classical statistical methods and modern machine learning techniques. <br>
