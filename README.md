@@ -1,4 +1,4 @@
-# Netflix Global Top 10 Performance Predictor
+# Netflix Global Top 10 Performance
 
 Can we predict how many hours a Netflix title will be viewed based on its first two weeks in the Global Top 10? What trends influence what we watch? This project explores these questions using both classical statistical methods and modern machine learning techniques. <br>
 
